@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "797074779144",
+    "project_id": "maadi-6f525",
+    "storage_bucket": "maadi-6f525.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797074779144:android:03c7a3111d1834462e75bd",
+        "android_client_info": {
+          "package_name": "com.example.maaaaaadi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5pq-1ijZPZ5rGEfd0tAO0NLIRI3j1p9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
